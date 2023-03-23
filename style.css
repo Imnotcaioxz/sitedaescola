@@ -1,7 +1,16 @@
-body{
+header{
 
+    background-color: rgb(0, 0, 0);
+    color: rgba(255, 249, 249, 0.897);
+    display:  flex; 
+    justify-content: space-around;
 
-    background-color: rgb(255, 255, 255);
+}
+.cabeçalho-imagem{width: 20%;}
+.cabeçalho-lista-item{
+    
+     display:inline-block;
+     margin:0 16px;
+
 }
 
-.cabeçalho-imagem{width: 20%;}
