@@ -1,7 +1,7 @@
 header{
 
-    background-color: rgb(0, 0, 0);
-    color: rgba(255, 249, 249, 0.897);
+    background-color: #860d78;
+    color: plum;
     display:  flex; 
     justify-content: space-around;
 
@@ -14,3 +14,10 @@ header{
 
 }
 
+ .escola-imagem{
+       width: 25%;  
+ }
+  
+  .escola{
+        background-image: linear-gradient(#860d78, #AA78A5);
+  }
